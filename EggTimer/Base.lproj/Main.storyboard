@@ -141,7 +141,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PSQ-5x-enN" userLabel="Reset Button View">
                                         <rect key="frame" x="0.0" y="598.66666666666663" width="361" height="160.33333333333337"/>
                                         <subviews>
-                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="U1x-9t-col">
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="U1x-9t-col" userLabel="Reset Button">
                                                 <rect key="frame" x="143" y="63" width="75" height="34.333333333333343"/>
                                                 <color key="backgroundColor" name="AccentColor"/>
                                                 <state key="normal" title="Button"/>
